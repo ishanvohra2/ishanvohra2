@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my github profile! Some highlights about me :
+- Founder and CEO,The Indie Corp
+- Microsoft Student Partner 
+- International Award Winner 
+- Game Development Mentor at IOSD 
+- IncubateIND Fellow
+
 <!--
 **ishanvohra2/ishanvohra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
