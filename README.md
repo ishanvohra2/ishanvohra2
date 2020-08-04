@@ -2,9 +2,10 @@
 
 Welcome to my github profile! Some highlights about me :
 - Founder and CEO,The Indie Corp
-- Microsoft Student Partner 
+- Microsoft Learn Student Ambassador 
+- Smart India Hackathon 2020 Winner 
 - International Award Winner 
-- Game Development Mentor at IOSD 
+- Game Development Mentor at IOSD
 - IncubateIND Fellow
 
 <!--
