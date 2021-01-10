@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my github profile! Some highlights about me :
-- Founder and CEO,The Indie Corp
+- SDE, Halanx
 - Microsoft Learn Student Ambassador 
 - Smart India Hackathon 2020 Winner 
 - International Award Winner 
