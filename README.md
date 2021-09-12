@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 Welcome to my github profile! Some highlights about me :
-- SDE, Halanx
+- SDE, [Hypd.store](hypd.store)
 - Microsoft Learn Student Ambassador 
 - Smart India Hackathon 2020 Winner 
 - International Award Winner 
 - Game Development Mentor at IOSD
-- IncubateIND Fellow
 
 <!--
 **ishanvohra2/ishanvohra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
