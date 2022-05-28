@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ishan-vohra&label=Profile%20views&color=0e75b6&style=plastic" alt="ishan-vohra" /> 
+	<img src="https://komarev.com/ghpvc/?username=ishanvohra2&label=Profile%20views&color=0e75b6&style=plastic" alt="ishan-vohra" /> 
 </p>
 
 
