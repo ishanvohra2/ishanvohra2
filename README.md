@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am an `Android Engineer` at Skylark Drones
+- :school: I am an `Android Engineer` at Powr Of You
 - :trophy: `SIH` Winner 2020
 - :technologist: I love creating applications that provide value for the `Android` platform
 - :nerd_face: Always up for `learning something new`
